@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 Email : lyl40255@gmail.com  /  lyl4025@naver.com
+😄 Email : lyl40255@gmail.com  /  lyl4025@naver.com </br>
 😄 Portpolio : 
