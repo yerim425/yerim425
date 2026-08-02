@@ -17,24 +17,19 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 📱 Mobile
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,python,js,php)](https://skillicons.dev)
+### 🌐 Web
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
-**Web**
+### 🖥️ Backend
+[![My Skills](https://skillicons.dev/icons?i=php,python)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
-
-**Android**
-
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://skillicons.dev)
-
-**Database**
-
+### 🗄️ Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
-**Tools**
-
+### 🔧 Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
 
 ## 📫 Contact
