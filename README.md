@@ -15,22 +15,47 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🛠️ Tech Stack
-
-### 📱 Mobile
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio)](https://skillicons.dev)
-
-### 🌐 Web
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
-
-### 🖥️ Backend
-[![My Skills](https://skillicons.dev/icons?i=php,python)](https://skillicons.dev)
-
-### 🗄️ Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-
-### 🔧 Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
+<table>
+  <tr>
+    <td width="120"><b>Mobile</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=kotlin" width="36"/>
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="36"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html" width="36"/>
+      <img src="https://skillicons.dev/icons?i=css" width="36"/>
+      <img src="https://skillicons.dev/icons?i=js" width="36"/>
+      <img src="https://skillicons.dev/icons?i=react" width="36"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=php" width="36"/>
+      <img src="https://skillicons.dev/icons?i=python" width="36"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" width="36"/>
+      <img src="https://skillicons.dev/icons?i=sqlite" width="36"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" width="36"/>
+      <img src="https://skillicons.dev/icons?i=github" width="36"/>
+      <img src="https://skillicons.dev/icons?i=figma" width="36"/>
+      <img src="https://skillicons.dev/icons?i=vscode" width="36"/>
+    </td>
+  </tr>
+</table>
 
 ## 📫 Contact
 <a href="mailto:lyl40255@gmail.com">
