@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🛠️ Tech Stack
+
 <table>
   <tr>
     <td width="120"><b>Mobile</b></td>
